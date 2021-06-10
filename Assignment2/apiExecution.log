@@ -1,0 +1,61 @@
+2021-06-10T09:18:33.218Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:18:35.935Z [Hello] info: Time is < 20 seconds! Dislpayed weather from db table
+2021-06-10T09:18:51.272Z [Hello] info: Time is < 20 seconds! Dislpayed weather from db table
+2021-06-10T09:19:18.468Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:19:38.840Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:19:57.708Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:25:33.558Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T09:25:33.573Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:25:47.502Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T09:25:47.507Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:25:49.017Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T09:25:49.020Z [Hello] info: Time is < 20 seconds! Dislpayed weather from db table
+2021-06-10T09:26:43.551Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T09:26:43.553Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:29:24.794Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T09:29:24.803Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:29:28.465Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T09:29:28.467Z [Hello] info: Time is < 20 seconds! Dislpayed weather from db table
+2021-06-10T09:29:44.984Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T09:29:44.987Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:31:36.247Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T09:31:36.259Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:33:00.616Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T09:33:00.628Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T09:37:38.459Z [Hello] error: Error city not found!
+2021-06-10T09:37:48.518Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T09:37:48.528Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T11:42:07.886Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T11:42:07.900Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T11:45:47.493Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T11:45:47.507Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T12:08:09.698Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:08:09.710Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T12:08:19.798Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:08:19.801Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T12:08:26.710Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:08:26.711Z [Hello] info: Time is < 20 seconds! Dislpayed weather from db table
+2021-06-10T12:28:47.631Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:28:47.644Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T12:30:33.362Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:30:33.374Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T12:30:59.171Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:30:59.183Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T12:33:39.263Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:33:39.276Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T12:36:15.266Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:36:15.276Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T12:36:15.398Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:36:15.401Z [Hello] info: Time is < 20 seconds! Dislpayed weather from db table
+2021-06-10T12:36:15.503Z [Hello] error: Error city not found!
+2021-06-10T12:37:00.446Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:37:00.457Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T12:37:00.709Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:37:00.712Z [Hello] info: Time is < 20 seconds! Dislpayed weather from db table
+2021-06-10T12:37:00.895Z [Hello] error: Error city not found!
+2021-06-10T12:37:47.604Z [Hello] error: Error city not found!
+2021-06-10T12:39:19.858Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:39:19.868Z [Hello] info: Time is > 20 seconds! Dumped weather into db table
+2021-06-10T12:39:19.991Z [Hello] info: Checking to see if time has been > 20 secs
+2021-06-10T12:39:19.993Z [Hello] info: Time is < 20 seconds! Dislpayed weather from db table
+2021-06-10T12:39:20.089Z [Hello] error: Error city not found!

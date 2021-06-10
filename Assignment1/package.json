@@ -1,0 +1,14 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "NodeJS module that is given a list of servers that returns an available server with the lowest priority number.",
+  "main": "assignment1.0.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Brendon Rongcales",
+  "license": "ISC"
+}
